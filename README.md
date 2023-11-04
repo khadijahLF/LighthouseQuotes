@@ -6,4 +6,4 @@ Welcome to the Quote Website! This readme file provides an overview of the websi
 3. Usage
 4. Customization
 ### Features
-![Alt Text](images/qqq.png)
+![Alt Text](rimages/qqq.png)
